@@ -30,7 +30,7 @@ public class Test02 {
 			
 					
 		}
-		System.out.println(smsum);
+		System.out.printf("%.3f\n",smsum);
 		
 		//반복문으로 배열 만들기
 		int[] arr = new int[10];
@@ -52,7 +52,7 @@ public class Test02 {
 			brr[l] = arr[9 - l];
 			System.out.print(brr[l]+" ");
 			}
-		
+		System.out.println("\n----------------------");
 		}
 		
 		
