@@ -1,6 +1,6 @@
 package ex01;
 
-public class test01 {
+public class Test01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -58,6 +58,10 @@ public class test01 {
 					System.out.println("Hello");
 					m = m+1;
 				}
+				
+			
+				
+				
 	}
 
 }
