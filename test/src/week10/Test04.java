@@ -1,4 +1,4 @@
-package week1;
+package week10;
 
 import java.util.Arrays;
 import java.util.Random;

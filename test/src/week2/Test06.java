@@ -9,7 +9,8 @@ public class Test06 {
 		int a1 = 100;
 		int point = 0;
 		for(int i = 0; i < 10; i++) {
-			if(arr[i] <= 7) {
+			
+			if(arr[i] < 7) {
 				a = 7-arr[i];
 			}
 			else {
@@ -21,9 +22,9 @@ public class Test06 {
 			}
 	
 		}
-		System.out.println("가장 가까운 수:"+(a1+7));
+		System.out.println("가장 가까운 수:"+arr[point]);
 		System.out.println("수의 주소: arr["+point+"]");
-		
+		 
 				
 			
 			
