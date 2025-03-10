@@ -4,7 +4,7 @@ public class Test06 {
 
 	public static void main(String[] args) {
 		int near = 0;
-		int arr[] = new int[]{21,6,9,15,42,35,19,1,12,27};
+		int arr[] = new int[]{21,2,9,15,42,35,19,1,12,27};
 		int a = 0;
 		int a1 = 100;
 		int point = 0;
