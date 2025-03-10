@@ -1,4 +1,4 @@
-package week10;
+package week1;
 import java.util.Arrays;
 public class Test03 {
 
